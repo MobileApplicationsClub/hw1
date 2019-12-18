@@ -22,5 +22,9 @@ A list of participants in CSC 195
 * Noah D. Schlager
 * Elias Mulhall
 * Yazan A. Kittaneh
+<<<<<<< HEAD
 
 * Mayank Mathur
+=======
+Animesh Bilthare
+>>>>>>> 52b28d1c1d6f157286706c6dea47cb6da1dd9c26
